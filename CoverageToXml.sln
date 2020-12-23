@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoverageToXml", "CoverageToXml\CoverageToXml.csproj", "{A293D591-3C1F-405B-8D29-0E7013446B5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A293D591-3C1F-405B-8D29-0E7013446B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A293D591-3C1F-405B-8D29-0E7013446B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A293D591-3C1F-405B-8D29-0E7013446B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A293D591-3C1F-405B-8D29-0E7013446B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6113E3D7-030C-4B17-B199-A0C1A4BD8913}
+	EndGlobalSection
+EndGlobal
